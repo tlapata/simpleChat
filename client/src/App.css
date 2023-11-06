@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  padding: 5vh 10vw;
+}
+
+.form{
+  border: 2px solid green;
+  border-radius: 8px;
+  padding: 20px;
+  display: inline-block;
+}
+
+.messages{
+  background: #eee;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.message{
+  border: 2px solid blue;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 30px 20%;
+}
+
+.new-user{
+  font-weight: bold;
+  color: red;
+}
